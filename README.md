@@ -58,6 +58,8 @@
 1) sudo apt-get update && apt-get install git
 2) sudo git clone https://github.com/CodeCr4cker/Wifi-Hacking.git
 3) cd Wifi-Hacking/
+```
+```
 4) sudo python3 Wifi-Hacking.py
 ```
 <B fontsize="30px">OR</B>
