@@ -60,6 +60,10 @@
 3) cd Wifi-Hacking/
 4) sudo python3 Wifi-Hacking.py
 ```
+<B fontsize="30px">OR</B>
+```
+5) sudo python3 Wifi-Cracker.py
+```
 
 ## Creator
 
