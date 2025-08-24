@@ -88,16 +88,6 @@ sudo python3 Wifi-Cracker.py
 
 
 
-# Feel Free To Contact Me.
-
-
- ### if you like my work, Buy me a Cup of Coffee PhonePay/PayTm/GPAy 9768367597
-
-### - [Whats App chat](https://wa.me/+919768367597)
-
-### - [Instagram](https://www.instagram.com/ankit_kanojiiya/)
-
-
 # Disclaimer 
 
 
