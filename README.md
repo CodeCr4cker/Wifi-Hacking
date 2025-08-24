@@ -55,16 +55,16 @@
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/CodeCr4cker/Wifi-Hacking.git
-3) cd Wifi-Hacking/
+sudo apt-get update && apt-get install git
+sudo git clone https://github.com/CodeCr4cker/Wifi-Hacking.git
+cd Wifi-Hacking/
 ```
 ```
-4) sudo python3 Wifi-Hacking.py
+ sudo python3 Wifi-Hacking.py
 ```
 <B fontsize="30px">OR</B>
 ```
-5) sudo python3 Wifi-Cracker.py
+sudo python3 Wifi-Cracker.py
 ```
 
 ## Creator
